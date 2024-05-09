@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-1" d="M22,24H128V42H22V24Zm0,0H128V42H22V24Zm0,0H128V42H22V24Z"/>
+  <path id="Прямоугольник_1_копия_2" data-name="Прямоугольник 1 копия 2" class="cls-1" d="M22,108H128v18H22V108Zm0,0H128v18H22V108Zm0,0H128v18H22V108Z"/>
+  <path id="Прямоугольник_1_копия" data-name="Прямоугольник 1 копия" class="cls-1" d="M22,66H128V84H22V66Zm0,0H128V84H22V66Zm0,0H128V84H22V66Z"/>
+</svg>

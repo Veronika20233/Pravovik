@@ -1,0 +1,356 @@
+.first-section {
+height: 100vh;
+position: relative;
+background-image: url(/img/img1.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.firstTitle {
+color: #fffefe;
+font-family: "Roboto";
+text-align: center;
+padding-top: 110px;
+}
+
+.firstTitle h1 {
+  font-weight: 400;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+.firstTitle h3 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.navbar-collapse {
+justify-content: space-between;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .nav-link, .navbar-brand {
+  font-size: 16px;
+  color: #fffefe;
+  font-family: "Roboto";
+}
+
+.navbar-brand img {
+  height: 36px;
+}
+
+.phoneUS {
+  font-size: 14px;
+  color: #fffefe;
+  font-family: "Roboto";
+}
+
+a {
+  color: #fffefe;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.nav-link:focus, .nav-link:hover, .navbar-brand:focus, .navbar-brand:hover {
+  color: #fffefe;
+}
+
+.navbar-nav {
+  gap: 40px;
+  margin-left: 50px;
+}
+
+.navbar {
+padding-top:30px;
+font-weight: 700;
+}
+
+.container h4 {
+  font-size: 30px;
+}
+.container  {
+  font-size: 18px;
+}
+
+.first-info-blocks{
+  display: flex;
+  margin-top: 180px;
+  color: #fffefe;
+  align-items: center;
+}
+
+.form-container {
+padding: 25px;
+background-color: #fff;
+}
+
+.form-container h5 {
+color: #2f93d8;
+font-size: 24px;
+font-weight: 700;
+}
+
+.mySubmit {
+  width: 100%;
+  padding: 10px;
+  background-color: #2f93d8;
+}
+
+.mySubmit:hover {
+  background-color: #1a77b5;
+}
+
+
+.btn.mySubmit:active {
+  background-color: #2f93d8;
+}
+
+h2 {
+  font-size: 44px;
+text-transform: uppercase;
+color: #424242;
+font-weight: 400;
+font-family: "Roboto";
+text-align: center;
+margin-top: 80px;
+margin-bottom: 80px;
+}
+
+.cooperation-blocks {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+  padding: 0 170px;
+  gap: 10px;
+}
+
+.cooperation-image {
+border: 2px solid #2f93d8;
+max-width: fit-content;
+padding: 30px;
+border-radius: 50%;
+}
+
+.cooperation-info {
+  font-size: 16px;
+  color: #575757;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.cooperation-info a {
+color: #2f93d8; 
+  text-decoration: none; 
+} 
+
+.cooperation-block {
+  text-align: center;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.cooperation-arrow {
+ margin-top: 40px;
+}
+
+.partners {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 150px;
+}
+
+.myNavLinks {
+justify-content: center;
+}
+
+
+.mynav-link {
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Proxima Nova";
+  background-color: #ffffff;
+  border: 2px solid #dddddd;
+  color: #575757;
+  padding: 10px 40px;
+  text-align: center; 
+  border-radius: 0 !important;
+} 
+
+
+
+
+.mynav-link:hover {
+  background-color: #2e93d8;
+}
+
+.card {
+border: 2px solid #f5f5f5;
+border-radius: 0;
+filter: drop-shadow(0 0 15px rgba(0,0,0,0.12));
+}
+
+.mynav-link .lowercase {
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.tab-content {
+  margin-top: 60px; 
+  display: flex;
+  justify-content: space-between; 
+}
+
+
+.card-title {
+  font-size: 36px;
+  line-height: 24px;
+  color: #575757;
+  font-weight: 400;
+  font-family: "Roboto";
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.prices {
+padding-bottom: 40px;  
+}
+
+.price {
+font-size: 36px;
+line-height: 24px;
+color:#2e93d8;
+font-weight: 400;
+font-family: "Roboto";
+text-align: center;
+}
+
+.price1 {
+  font-family: "Roboto";
+}
+
+.card-body{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.card-text {
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.card-text-center{
+padding-bottom: 60px;  
+}
+
+a.button-fourthSection { 
+font-size: 18px;
+color: #ffffff;
+background-color: #2e93d8;
+font-weight: bold;
+font-family: "Proxima Nova";
+text-align: center;
+padding: 10px  80px ;
+}
+
+.button-fourthSection:hover{
+  background-color: #2e93d890;
+}
+
+
+
+.course-prices-blocks {
+width:100%;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 40px;
+}    
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+background-color: #2f93d8;
+}
+
+
+
+.feedback {
+  background-color: #2f93d8;
+  padding: 130px 50px;
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.First-consultation {
+font-size: 60px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: 400;
+font-family: "Roboto";
+} 
+
+.yourApplication {
+  font-size: 36px;
+  color: #ffffff;
+  font-weight: bold;
+font-family: "Proxima Nova";
+}
+
+.yourConsultation {
+font-size: 24px;
+text-transform: uppercase;
+color: #2e93d8;
+font-weight: bold;
+font-family: "Proxima Nova";
+text-align: center;
+}
+
+a.finalLink {
+font-size: 15px;
+color: #2e93d8;
+font-weight: 400;
+font-family: "Roboto";
+}
+.sixth-section {
+  padding-top: 20px; 
+}
+
+.myFooter {
+ display: flex;
+ justify-content: space-between;
+ font-size: 16px;
+ color: #575757;
+ font-weight: 400;
+ font-family: "Roboto";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
